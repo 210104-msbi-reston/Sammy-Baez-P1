@@ -6,4 +6,19 @@ Apple Inc is an electronics manufacturer that has a global presence and has mult
  - SSIS
  - Excel
 # Features
-  - 
+  - Functions and procedures that can move products between distribution chain
+  - Functions and procedures that can generate new distribution chain members
+  - Functions and procedures than can generate new products
+  - Automatic calculation of distribution share
+  - Tracks all movement between distribution chain with time stamps
+  - Updates tables when products move between distribution chain utilizing triggers
+  - Can add a new product
+To-do list:
+  - Implement customer returns
+  - Implenent and track product moving backwards within distribution chain
+# Getting Started
+  - git clone https://github.com/210104-msbi-reston/Sammy-Baez-P1.git
+  - restore .bak file or run script 
+# Usage 
+  - Explore data in all tables
+  - Explore functions and procedures 
