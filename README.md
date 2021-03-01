@@ -22,3 +22,6 @@ To-do list:
 # Usage 
   - Explore data in all tables
   - Explore functions and procedures 
+# License
+
+This project uses the following license: [MIT License](https://github.com/210104-msbi-reston/Sammy-Baez-P1/blob/main/LICENSE.txt).
